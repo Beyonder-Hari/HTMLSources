@@ -40,18 +40,17 @@ background-color: #50C878;
 <h1 id= "home"> HTML: A Basic Guide</h1>
 </marquee>
 <ul>
-  <li><a class="active" href="https://beyonder-hari.github.io/HTMLBasicGuide/">Home</a></li>
-  <li><a href="#news">HTML Tags</a></li>
-  <li><a href="#contact">History</a></li>
-   <li><a href="#contact">Other Sources</a></li>
-    <li><a href="#contact">Videos</a></li>
-  <li><a href="">About</a></li>
+  <li><a class="active" href="#https://beyonder-hari.github.io/HTMLBasicGuide/">Home</a></li>
+  <li><a href="https://beyonder-hari.github.io/HTMLTags/">HTML Tags</a></li>
+  <li><a href="https://beyonder-hari.github.io/HistoryOfHTML/">History</a></li>
+   <li><a href="https://beyonder-hari.github.io/HTMLSources/">Other Sources</a></li>
+    <li><a href="https://beyonder-hari.github.io/HTMLVideos/">Videos</a></li>
+  <li><a href="https://beyonder-hari.github.io/AboutMe/">About</a></li>
 </ul>
 
-<h1 align="center"> Sources </h1></strong></big>
+<h1 align="center"> Sources </h1>
 <h2> I'd like to thank W3Schools for all the informations and Clarifications. Go check them out here. <a href="https://www.w3schools.com/"> W3Schools</a>.<br>
 And all my basic knowledge and skills were from Khan Academy.<br><br>
-But so far I only credited 2 websites but now, I want to express my gratitude to my 2 Computer Science teachers: Sujitha Ma'am and Pavithra Ma'am. (I hope it's the right spelling)
-<br><br><center>Thank you so much</center></h2>
+</h2>
 </body>
 </html>
